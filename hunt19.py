@@ -7,4 +7,4 @@ for i in range(2,num+1):
           t=1
           break
     if(t==0):
-          print(i)
+          print(i,end="")
